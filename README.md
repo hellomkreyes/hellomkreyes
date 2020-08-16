@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Visitors
-![Visitor Count](https://profile-counter.glitch.me/hellomkreyes/count.svg)
+<img src="https://media.giphy.com/media/yyVph7ANKftIs/giphy.gif">
